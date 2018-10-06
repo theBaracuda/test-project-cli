@@ -4,6 +4,8 @@ public class MainClass{
 		person.setName("Rahul");
 		person.setCity("Mumbai");
 		person.setAge(20);
-		System.out.println(person.getName);
+		System.out.println(person.getName());
+		System.out.println(person.getCity());
+		System.out.println(person.getAge());
 	}
 }
